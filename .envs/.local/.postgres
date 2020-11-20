@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=unified_csv_mock_generator_tool
+POSTGRES_USER=NheNuYiJteZYzQUDTMVIPpCcSVcacmVd
+POSTGRES_PASSWORD=dsvMiS8hVJ3Zb7gUqKqasmMwaa6uOCLNFOf5F6HpuEBSTOI0dDdaMJbFBqV8OMMJ
